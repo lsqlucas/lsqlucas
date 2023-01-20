@@ -1,1 +1,2 @@
-- 🌱 "Toda solução complexa começa com uma ideia simples" 
+- 🌱 "Muitas ideias simples exigem soluções complexas, estas devem ser simplificadas mas trazer todos os resultados possiveis"
+- 🌱 "SIMPLIFIQUE!"
